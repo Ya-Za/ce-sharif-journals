@@ -1,0 +1,233 @@
+[
+    {
+      "id": 1,
+      "code": "ARITH",
+      "title": "IEEE Symposium on Computer Arithmetic",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 2,
+      "code": "CHI",
+      "title": "Computer Human Interaction",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 3,
+      "code": "CVPR",
+      "title": "Computer Vision and Pattern Recognition",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 4,
+      "code": "DAC",
+      "title": "Design Automation Conference",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 5,
+      "code": "ECCV",
+      "title": "European Conference on Computer Vision",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 6,
+      "code": "EMNLP",
+      "title": "Empirical Methods in Natural Language Processing",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 7,
+      "code": "EMSOFT",
+      "title": "International Conference / Workshop on Embedded Software",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 8,
+      "code": "Euros",
+      "title": "EuroSys",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 9,
+      "code": "HPCA",
+      "title": "International Symposium on High-Performance Computer Architecture",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 10,
+      "code": "HPDC",
+      "title": "International Symposium on High Performance Distributed Computing",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 11,
+      "code": "ICCAD",
+      "title": "International Conference on Computer Aided Design",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 12,
+      "code": "ICRA",
+      "title": "International Conference on Robotics and Automation",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 13,
+      "code": "ICS",
+      "title": "International Conference on Supercomputing",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 14,
+      "code": "IMC",
+      "title": "Internet Measurement Conference",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 15,
+      "code": "IROS",
+      "title": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 16,
+      "code": "ISMB",
+      "title": "Conference on Intelligent Systems for Molecular Biology",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 17,
+      "code": "KDD",
+      "title": "Knowledge Discovery and Data Mining",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 18,
+      "code": "MICRO",
+      "title": "International Symposium on Microarchitecture",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 19,
+      "code": "Mobi Sys",
+      "title": "International Conference on Mobile Systems, Applications, and Services",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 20,
+      "code": "NAACL",
+      "title": "North American Chapter of the Association for Computational Linguistics",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 21,
+      "code": "NSDI",
+      "title": "Networked Systems Design and Implementation",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 22,
+      "code": "OSDI",
+      "title": "Operating Systems Design and Implementation",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 23,
+      "code": "RECOMB",
+      "title": "International Conference on Research in Computational Molecular Biology",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 24,
+      "code": "RTAS",
+      "title": "IEEE Real Time Technology and Applications Symposium",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 25,
+      "code": "SC",
+      "title": "Supercomputing",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 26,
+      "code": "SenSys",
+      "title": "ACM SenSys",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 27,
+      "code": "SIGGRAPH Asia",
+      "title": "SIGGRAPH Asia",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 28,
+      "code": "Ubi Comp",
+      "title": "Ubiquitous Computing",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 29,
+      "code": "UIST",
+      "title": "ACM Symposium on User Interface Software and Technology",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 30,
+      "code": "USENIX",
+      "title": "Usenix Annual Technical Conference",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 31,
+      "code": "USENIX Sec",
+      "title": "USENIX Security Symposium",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 32,
+      "code": "VIS",
+      "title": "Visualization",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    },
+    {
+      "id": 33,
+      "code": "VR",
+      "title": "Virtual Reality Conference",
+      "rank": "2 of 3 A* Conference",
+      "sharif-score": 5
+    }
+  ]

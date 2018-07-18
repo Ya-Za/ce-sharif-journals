@@ -1,0 +1,2738 @@
+[
+  {
+    "id": 1,
+    "title": "ACM COMPUTING SURVEYS",
+    "sjr-title": "ACM Computing Surveys",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 7
+  },
+  {
+    "id": 2,
+    "title": "ACM SIGMETRICS Performance Evaluation Review",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": ""
+  },
+  {
+    "id": 3,
+    "title": "ACM Transactions in Embedded Computing Systems - TECS",
+    "sjr-title": "Transactions on Embedded Computing Systems",
+    "issn": "",
+    "if": 1.367,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 4,
+    "title": "ACM TRANSACTIONS ON ARCHITECTURE AND CODE OPTIMIZATION",
+    "sjr-title": "Transactions on Architecture and Code Optimization",
+    "issn": "",
+    "if": 1.636,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 5,
+    "title": "ACM TRANSACTIONS ON COMPUTER SYSTEMS",
+    "sjr-title": "ACM Transactions on Computer Systems",
+    "issn": 7342071,
+    "if": 5.045,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 6,
+    "title": "ACM TRANSACTIONS ON DESIGN AUTOMATION OF ELECTRONIC SYSTEMS",
+    "sjr-title": "ACM Transactions on Design Automation of Electronic Systems",
+    "issn": 10844309,
+    "if": 0.85,
+    "sjr-q": "Q3",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 7,
+    "title": "ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY",
+    "sjr-title": "ACM Transactions on Intelligent Systems and Technology",
+    "issn": "21576912, 21576904",
+    "if": 3.196,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 8,
+    "title": "ACM TRANSACTIONS ON KNOWLEDGE DISCOVERY FROM DATA",
+    "sjr-title": "ACM Transactions on Knowledge Discovery from Data",
+    "issn": 15564681,
+    "if": 1.895,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 9,
+    "title": "ACTA INFORMATICA",
+    "sjr-title": "Acta Informatica",
+    "issn": "14320525, 00015903",
+    "if": 1,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 10,
+    "title": "Ad Hoc Networks",
+    "sjr-title": "Ad Hoc Networks",
+    "issn": 15708705,
+    "if": 3.047,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 11,
+    "title": "Advances in Complex Systems (ACS)",
+    "sjr-title": "Advances in Complex Systems",
+    "issn": "",
+    "if": 0.833,
+    "sjr-q": "Q1-Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 12,
+    "title": "ADVANCES IN COMPUTERS",
+    "sjr-title": "Advances in Computers",
+    "issn": "",
+    "if": 0.789,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 13,
+    "title": "ADVANCES IN MATHEMATICS OF COMMUNICATIONS",
+    "sjr-title": "Advances in Mathematics of Communications",
+    "issn": "19305346, 19305338",
+    "if": 0.8,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 14,
+    "title": "AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS",
+    "sjr-title": "AEU - International Journal of Electronics and Communications",
+    "issn": "",
+    "if": 1.147,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 15,
+    "title": "ALGORITHMICA",
+    "sjr-title": "Algorithmica",
+    "issn": "14320541, 01784617",
+    "if": 0.735,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 16,
+    "title": "Applied Geomatics",
+    "sjr-title": "Applied Geomatics",
+    "issn": "1866928X, 18669298",
+    "if": "",
+    "sjr-q": "Q1",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 17,
+    "title": "APPLIED MATHEMATICS AND COMPUTATION",
+    "sjr-title": "Applied Mathematics and Computation",
+    "issn": "18735649, 00963003",
+    "if": 1.738,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 18,
+    "title": "Applied Soft Computing",
+    "sjr-title": "Applied Soft Computing Journal",
+    "issn": "",
+    "if": 3.541,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 19,
+    "title": "Arabian Journal for Science and Engineering (AJSE)",
+    "sjr-title": "Arabian Journal for Science and Engineering",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 20,
+    "title": "ARTIFICIAL INTELLIGENCE IN MEDICINE",
+    "sjr-title": "Artificial Intelligence in Medicine",
+    "issn": 9333657,
+    "if": 2.009,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 21,
+    "title": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+    "sjr-title": "Australian Journal of Basic and Applied Sciences",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": "Discontinued"
+  },
+  {
+    "id": 22,
+    "title": "Australian Journal of Electrical and Electronics Engineering",
+    "sjr-title": "Australian Journal of Electrical and Electronics Engineering",
+    "issn": "1448837X",
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 1.5
+  },
+  {
+    "id": 23,
+    "title": "AUTOMATICA",
+    "sjr-title": "Automatica",
+    "issn": 51098,
+    "if": 5.451,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 24,
+    "title": "Biomedical Signal Processing and Control",
+    "sjr-title": "Biomedical Signal Processing and Control",
+    "issn": 17468094,
+    "if": 2.214,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 25,
+    "title": "BMC BIOINFORMATICS",
+    "sjr-title": "BMC Bioinformatics",
+    "issn": 14712105,
+    "if": 2.448,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 26,
+    "title": "BRAIN AND BEHAVIOR",
+    "sjr-title": "Brain and Behavior",
+    "issn": 21623279,
+    "if": 2.157,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 27,
+    "title": "CHAOS",
+    "sjr-title": "Chaos",
+    "issn": "10897682, 10541500",
+    "if": 2.283,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 28,
+    "title": "Chemistry & Biodiversity",
+    "sjr-title": "Chemistry and Biodiversity",
+    "issn": "",
+    "if": 1.44,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 29,
+    "title": "Cluster Computing",
+    "sjr-title": "Cluster Computing",
+    "issn": 13867857,
+    "if": 2.04,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 30,
+    "title": "Cognitive Computation",
+    "sjr-title": "Cognitive Computation",
+    "issn": "18669964, 18669956",
+    "if": 3.441,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 31,
+    "title": "COMMUNICATIONS IN NONLINEAR SCIENCE AND NUMERICAL SIMULATION",
+    "sjr-title": "Communications in Nonlinear Science and Numerical Simulation",
+    "issn": 10075704,
+    "if": 2.784,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 32,
+    "title": "Complex Adaptive Systems Modeling (CASM)",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  },
+  {
+    "id": 33,
+    "title": "COMPUTATIONAL GEOMETRY-THEORY AND APPLICATIONS",
+    "sjr-title": "Computational Geometry: Theory and Applications",
+    "issn": "",
+    "if": 0.548,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 34,
+    "title": "COMPUTER",
+    "sjr-title": "Computer",
+    "issn": 189162,
+    "if": 1.755,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 35,
+    "title": "COMPUTER COMMUNICATIONS",
+    "sjr-title": "Computer Communications",
+    "issn": 1403664,
+    "if": 3.338,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 36,
+    "title": "COMPUTER JOURNAL",
+    "sjr-title": "Computer Journal",
+    "issn": "14602067, 00104620",
+    "if": 0.711,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 37,
+    "title": "COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE",
+    "sjr-title": "Computer Methods and Programs in Biomedicine",
+    "issn": 1692607,
+    "if": 2.503,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 38,
+    "title": "COMPUTER NETWORKS-THE INTERNATIONAL JOURNAL OF COMPUTER AND TELECOMMUNICATI",
+    "sjr-title": "Computer Networks",
+    "issn": "",
+    "if": 2.516,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 39,
+    "title": "COMPUTER VISION AND IMAGE UNDERSTANDING",
+    "sjr-title": "Computer Vision and Image Understanding",
+    "issn": "10773142, 1090235X",
+    "if": 2.498,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 40,
+    "title": "COMPUTERS & ELECTRICAL ENGINEERING",
+    "sjr-title": "Computers and Electrical Engineering",
+    "issn": "",
+    "if": 1.57,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 41,
+    "title": "COMPUTERS & GRAPHICS-UK",
+    "sjr-title": "Computers and Graphics",
+    "issn": "",
+    "if": 1.176,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 42,
+    "title": "COMPUTERS & SECURITY",
+    "sjr-title": "Computers and Security",
+    "issn": "",
+    "if": 2.849,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 43,
+    "title": "COMPUTERS IN BIOLOGY AND MEDICINE",
+    "sjr-title": "Computers in Biology and Medicine",
+    "issn": 104825,
+    "if": 1.836,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 44,
+    "title": "COMPUTING",
+    "sjr-title": "Computing (Vienna/New York)",
+    "issn": "",
+    "if": 1.589,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 45,
+    "title": "COMPUTING AND INFORMATICS",
+    "sjr-title": "Computing and Informatics",
+    "issn": 13359150,
+    "if": 0.488,
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 46,
+    "title": "DATA & KNOWLEDGE ENGINEERING",
+    "sjr-title": "Data and Knowledge Engineering",
+    "issn": "",
+    "if": 1.694,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 47,
+    "title": "DATA MINING AND KNOWLEDGE DISCOVERY",
+    "sjr-title": "Data Mining and Knowledge Discovery",
+    "issn": "13845810, 1573756X",
+    "if": 3.16,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 48,
+    "title": "DECISION SUPPORT SYSTEMS",
+    "sjr-title": "Decision Support Systems",
+    "issn": 1679236,
+    "if": 3.222,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 49,
+    "title": "DIGITAL SIGNAL PROCESSING",
+    "sjr-title": "Digital Signal Processing: A Review Journal",
+    "issn": "",
+    "if": 2.337,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 50,
+    "title": "DISCRETE APPLIED MATHEMATICS",
+    "sjr-title": "Discrete Applied Mathematics",
+    "issn": "0166218X",
+    "if": 0.956,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 51,
+    "title": "DISCRETE MATHEMATICS",
+    "sjr-title": "Discrete Mathematics",
+    "issn": "0012365X",
+    "if": 0.639,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 52,
+    "title": "DISTRIBUTED AND PARALLEL DATABASES",
+    "sjr-title": "Distributed and Parallel Databases",
+    "issn": "15737578, 09268782",
+    "if": 1.179,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 53,
+    "title": "Electronic Notes in Theoretical Computer Science",
+    "sjr-title": "Electronic Notes in Theoretical Computer Science",
+    "issn": 15710661,
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 4
+  },
+  {
+    "id": 54,
+    "title": "ELECTRONICS LETTERS",
+    "sjr-title": "Electronics Letters",
+    "issn": "1350911X, 00135194",
+    "if": 1.155,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 55,
+    "title": "ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
+    "sjr-title": "Engineering Applications of Artificial Intelligence",
+    "issn": 9521976,
+    "if": 2.894,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 56,
+    "title": "ENGINEERING WITH COMPUTERS",
+    "sjr-title": "Engineering with Computers",
+    "issn": "14355663, 01770667",
+    "if": 0.765,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 57,
+    "title": "EURASIP Journal on Advances in Signal Processing",
+    "sjr-title": "Eurasip Journal on Advances in Signal Processing",
+    "issn": 16876172,
+    "if": 1.961,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 58,
+    "title": "EURASIP JOURNAL ON AUDIO SPEECH AND MUSIC PROCESSING",
+    "sjr-title": "Eurasip Journal on Audio, Speech, and Music Processing",
+    "issn": "",
+    "if": 1.579,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 59,
+    "title": "EURASIP JOURNAL ON IMAGE AND VIDEO PROCESSING",
+    "sjr-title": "Eurasip Journal on Image and Video Processing",
+    "issn": "16875176, 16875281",
+    "if": 1.742,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 60,
+    "title": "European Journal of Scientific Research",
+    "sjr-title": "European Journal of Scientific Research",
+    "issn": "1450202X, 1450216X",
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 2
+  },
+  {
+    "id": 61,
+    "title": "EUROPHYSICS LETTERS",
+    "sjr-title": "Europhysics Letters",
+    "issn": "12864854, 02955075",
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 62,
+    "title": "Evolving Systems",
+    "sjr-title": "Evolving Systems",
+    "issn": 18686478,
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 63,
+    "title": "EXPERT SYSTEMS",
+    "sjr-title": "Expert Systems",
+    "issn": "02664720, 14680394",
+    "if": 1.18,
+    "sjr-q": "Q3",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 64,
+    "title": "EXPERT SYSTEMS WITH APPLICATIONS",
+    "sjr-title": "Expert Systems with Applications",
+    "issn": 9574174,
+    "if": 3.928,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 65,
+    "title": "FORMAL ASPECTS OF COMPUTING",
+    "sjr-title": "Formal Aspects of Computing",
+    "issn": "1433299X, 09345043",
+    "if": 1.041,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 66,
+    "title": "FRONTIERS IN HUMAN NEUROSCIENCE",
+    "sjr-title": "Frontiers in Human Neuroscience",
+    "issn": 16625161,
+    "if": 3.209,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 67,
+    "title": "FRONTIERS OF COMPUTER SCIENCE",
+    "sjr-title": "Frontiers of Computer Science",
+    "issn": "20952236, 20952228",
+    "if": 1.039,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 68,
+    "title": "Fundamenta Informaticae",
+    "sjr-title": "Fundamenta Informaticae",
+    "issn": 1692968,
+    "if": 0.687,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 69,
+    "title": "FUTURE GENERATION COMPUTER SYSTEMS",
+    "sjr-title": "Future Generation Computer Systems",
+    "issn": "0167739X",
+    "if": 3.997,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 70,
+    "title": "GENETIC PROGRAMMING AND EVOLVABLE MACHINES",
+    "sjr-title": "Genetic Programming and Evolvable Machines",
+    "issn": "13892576, 15737632",
+    "if": 1.514,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 71,
+    "title": "GENOMICS",
+    "sjr-title": "Genomics",
+    "issn": "08887543, 10898646",
+    "if": 2.801,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 72,
+    "title": "GRAPHICAL MODELS",
+    "sjr-title": "Graphical Models",
+    "issn": "15240711, 15240703",
+    "if": 1.188,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 73,
+    "title": "IEE PROCEEDINGS-COMPUTERS AND DIGITAL TECHNIQUES",
+    "sjr-title": "IEE Proceedings: Computers and Digital Techniques",
+    "issn": "",
+    "if": 0.515,
+    "sjr-q": "Q3",
+    "sharif-score": "Renamed to IET"
+  },
+  {
+    "id": 74,
+    "title": "IEE PROCEEDINGS-MICROWAVES ANTENNAS AND PROPAGATION",
+    "sjr-title": "IEE Proceedings: Microwaves, Antennas and Propagation",
+    "issn": "",
+    "if": 1.187,
+    "sjr-q": "Q2",
+    "sharif-score": "غ?رمرتبط"
+  },
+  {
+    "id": 75,
+    "title": "IEEE COMMUNICATIONS LETTERS",
+    "sjr-title": "IEEE Communications Letters",
+    "issn": 10897798,
+    "if": 1.988,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 76,
+    "title": "IEEE COMPUTER ARCHITECTURE LETTERS",
+    "sjr-title": "IEEE Computer Architecture Letters",
+    "issn": 15566056,
+    "if": 1.397,
+    "sjr-q": "Q3",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 77,
+    "title": "IEEE Embedded Systems Letters",
+    "sjr-title": "IEEE Embedded Systems Letters",
+    "issn": "19430663, 19430671",
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 78,
+    "title": "IEEE GEOSCIENCE AND REMOTE SENSING LETTERS",
+    "sjr-title": "IEEE Geoscience and Remote Sensing Letters",
+    "issn": "1545598X",
+    "if": 2.761,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 79,
+    "title": "IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS",
+    "sjr-title": "IEEE Journal on Selected Areas in Communications",
+    "issn": 7338716,
+    "if": 8.085,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 80,
+    "title": "IEEE SENSORS JOURNAL",
+    "sjr-title": "IEEE Sensors Journal",
+    "issn": "1530437X",
+    "if": 2.512,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 81,
+    "title": "IEEE SIGNAL PROCESSING LETTERS",
+    "sjr-title": "IEEE Signal Processing Letters",
+    "issn": 10709908,
+    "if": 2.528,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 82,
+    "title": "IEEE SOFTWARE",
+    "sjr-title": "IEEE Software",
+    "issn": 7407459,
+    "if": 2.19,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 83,
+    "title": "IEEE Systems Journal",
+    "sjr-title": "IEEE Systems Journal",
+    "issn": 19328184,
+    "if": 3.882,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 84,
+    "title": "IEEE Transactions on Big Data",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 85,
+    "title": "IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING",
+    "sjr-title": "IEEE Transactions on Biomedical Engineering",
+    "issn": 189294,
+    "if": 3.577,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 86,
+    "title": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY",
+    "sjr-title": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "issn": 10518215,
+    "if": 3.599,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 87,
+    "title": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-FUNDAMENTAL THEORY AND APPLICAT",
+    "sjr-title": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "issn": "",
+    "if": 2.407,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 88,
+    "title": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-ANALOG AND DIGITAL SIGNAL PROC",
+    "sjr-title": "IEEE Transactions on Circuits and Systems II: Analog and Digital Signal Processing",
+    "issn": "",
+    "if": 1.66,
+    "sjr-q": "Q1",
+    "sharif-score": "Discontinued"
+  },
+  {
+    "id": 89,
+    "title": "IEEE TRANSACTIONS ON CLOUD COMPUTING",
+    "sjr-title": "IEEE Transactions on Cloud Computing",
+    "issn": 21687161,
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 90,
+    "title": "IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTE",
+    "sjr-title": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "issn": "",
+    "if": 1.942,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 91,
+    "title": "IEEE TRANSACTIONS ON COMPUTERS",
+    "sjr-title": "IEEE Transactions on Computers",
+    "issn": 189340,
+    "if": 2.916,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 92,
+    "title": "IEEE TRANSACTIONS ON CONSUMER ELECTRONICS",
+    "sjr-title": "IEEE Transactions on Consumer Electronics",
+    "issn": 983063,
+    "if": 1.694,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 93,
+    "title": "IEEE TRANSACTIONS ON CYBERNETICS",
+    "sjr-title": "IEEE Transactions on Cybernetics",
+    "issn": 21682267,
+    "if": 7.384,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 94,
+    "title": "IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING",
+    "sjr-title": "IEEE Transactions on Dependable and Secure Computing",
+    "issn": 15455971,
+    "if": 2.926,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 95,
+    "title": "IEEE TRANSACTIONS ON DEVICE AND MATERIALS RELIABILITY",
+    "sjr-title": "IEEE Transactions on Device and Materials Reliability",
+    "issn": 15304388,
+    "if": 1.575,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 96,
+    "title": "IEEE TRANSACTIONS ON EDUCATION",
+    "sjr-title": "IEEE Transactions on Education",
+    "issn": 189359,
+    "if": 1.727,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 97,
+    "title": "IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING",
+    "sjr-title": "IEEE Transactions on Geoscience and Remote Sensing",
+    "issn": 1962892,
+    "if": 4.942,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 98,
+    "title": "IEEE TRANSACTIONS ON IMAGE PROCESSING",
+    "sjr-title": "IEEE Transactions on Image Processing",
+    "issn": 10577149,
+    "if": 4.828,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 99,
+    "title": "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS",
+    "sjr-title": "IEEE Transactions on Industrial Electronics",
+    "issn": 2780046,
+    "if": 7.168,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 100,
+    "title": "IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY",
+    "sjr-title": "IEEE Transactions on Information Forensics and Security",
+    "issn": 15566013,
+    "if": 4.332,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 101,
+    "title": "IEEE TRANSACTIONS ON INFORMATION THEORY",
+    "sjr-title": "IEEE Transactions on Information Theory",
+    "issn": 189448,
+    "if": 2.679,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 102,
+    "title": "IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT",
+    "sjr-title": "IEEE Transactions on Instrumentation and Measurement",
+    "issn": 189456,
+    "if": 2.456,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 103,
+    "title": "IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING",
+    "sjr-title": "IEEE Transactions on Knowledge and Data Engineering",
+    "issn": 10414347,
+    "if": 3.438,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 104,
+    "title": "IEEE Transactions on Mobile Computing",
+    "sjr-title": "IEEE Transactions on Mobile Computing",
+    "issn": 15361233,
+    "if": 3.822,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 105,
+    "title": "IEEE Transactions on Network Science and Engineering",
+    "sjr-title": "IEEE Transactions on Network Science and Engineering",
+    "issn": 23274697,
+    "if": "",
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 106,
+    "title": "IEEE TRANSACTIONS ON NEURAL NETWORKS",
+    "sjr-title": "IEEE Transactions on Neural Networks and Learning Systems",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 7
+  },
+  {
+    "id": 107,
+    "title": "IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS",
+    "sjr-title": "IEEE Transactions on Neural Networks and Learning Systems",
+    "issn": "2162237X",
+    "if": 6.108,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 108,
+    "title": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "sjr-title": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "issn": 15344320,
+    "if": 3.41,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 109,
+    "title": "IEEE TRANSACTIONS ON NUCLEAR SCIENCE",
+    "sjr-title": "IEEE Transactions on Nuclear Science",
+    "issn": 189499,
+    "if": 1.171,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 110,
+    "title": "IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS",
+    "sjr-title": "IEEE Transactions on Parallel and Distributed Systems",
+    "issn": 10459219,
+    "if": 4.181,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 111,
+    "title": "IEEE TRANSACTIONS ON SERVICES COMPUTING",
+    "sjr-title": "IEEE Transactions on Services Computing",
+    "issn": 19391374,
+    "if": 3.52,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 112,
+    "title": "IEEE TRANSACTIONS ON SOFTWARE ENGINEERING",
+    "sjr-title": "IEEE Transactions on Software Engineering",
+    "issn": 985589,
+    "if": 3.272,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 113,
+    "title": "IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART B-CYBERNETICS",
+    "sjr-title": "IEEE Transactions on Systems, Man and Cybernetics Part B: Cybernetics",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q1",
+    "sharif-score": "Discontinued"
+  },
+  {
+    "id": 114,
+    "title": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS",
+    "sjr-title": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+    "issn": 10638210,
+    "if": 1.698,
+    "sjr-q": "Q2",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 115,
+    "title": "IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS",
+    "sjr-title": "IEEE Transactions on Wireless Communications",
+    "issn": 15361276,
+    "if": 4.951,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 116,
+    "title": "IEEE-ACM TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING",
+    "sjr-title": "IEEE/ACM Transactions on Speech and Language Processing",
+    "issn": "",
+    "if": 2.491,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 117,
+    "title": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+    "sjr-title": "IEEE/ACM Transactions on Networking",
+    "issn": "",
+    "if": 3.376,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 118,
+    "title": "IEICE ELECTRONICS EXPRESS",
+    "sjr-title": "IEICE Electronics Express",
+    "issn": 13492543,
+    "if": 0.456,
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 119,
+    "title": "IEICE TRANSACTIONS ON ELECTRONICS",
+    "sjr-title": "IEICE Transactions on Electronics",
+    "issn": 9168524,
+    "if": 0.503,
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 120,
+    "title": "IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUT",
+    "sjr-title": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
+    "issn": "",
+    "if": 0.274,
+    "sjr-q": "Q3",
+    "sharif-score": 3.5
+  },
+  {
+    "id": 121,
+    "title": "IET Computer Vision",
+    "sjr-title": "IET Computer Vision",
+    "issn": "17519640, 17519632",
+    "if": 0.878,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 122,
+    "title": "IET Computers and Digital Techniques",
+    "sjr-title": "IET Computers and Digital Techniques",
+    "issn": "1751861X, 17518601",
+    "if": 0.515,
+    "sjr-q": "Q3",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 123,
+    "title": "IET IMAGE PROCESSING",
+    "sjr-title": "IET Image Processing",
+    "issn": 17519659,
+    "if": 1.044,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 124,
+    "title": "IET INFORMATION SECURITY",
+    "sjr-title": "IET Information Security",
+    "issn": 17518709,
+    "if": 1.037,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 125,
+    "title": "IET SIGNAL PROCESSING",
+    "sjr-title": "IET Signal Processing",
+    "issn": "17519675, 17519683",
+    "if": 1.298,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 126,
+    "title": "IET Software",
+    "sjr-title": "IET Software",
+    "issn": "17518806, 17518814",
+    "if": 0.733,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 127,
+    "title": "IETE TECHNICAL REVIEW",
+    "sjr-title": "IETE Technical Review (Institution of Electronics and Telecommunication Engineers, India)",
+    "issn": "",
+    "if": 1.33,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 128,
+    "title": "IJCSNS International Journal of Computer Science and Network Security",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 129,
+    "title": "IMAGE AND VISION COMPUTING",
+    "sjr-title": "Image and Vision Computing",
+    "issn": 2628856,
+    "if": 2.671,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 130,
+    "title": "IMAGING SCIENCE JOURNAL",
+    "sjr-title": "Imaging Science Journal",
+    "issn": 13682199,
+    "if": 0.451,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 131,
+    "title": "INDIAN JOURNAL OF SCIENCE AND TECHNOLOGY",
+    "sjr-title": "Indian Journal of Science and Technology",
+    "issn": "09746846, 09745645",
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 132,
+    "title": "INFORMATION AND SOFTWARE TECHNOLOGY",
+    "sjr-title": "Information and Software Technology",
+    "issn": 9505849,
+    "if": 2.694,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 133,
+    "title": "INFORMATION DEVELOPMENT",
+    "sjr-title": "Information Development",
+    "issn": "02666669, 17416469",
+    "if": 1.691,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 134,
+    "title": "INFORMATION PROCESSING & MANAGEMENT",
+    "sjr-title": "Information Processing and Management",
+    "issn": "",
+    "if": 2.391,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 135,
+    "title": "INFORMATION PROCESSING LETTERS",
+    "sjr-title": "Information Processing Letters",
+    "issn": 200190,
+    "if": 0.748,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 136,
+    "title": "INFORMATION SCIENCES",
+    "sjr-title": "Information Sciences",
+    "issn": 200255,
+    "if": 4.832,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 137,
+    "title": "INFORMATION SYSTEMS",
+    "sjr-title": "Information Systems",
+    "issn": 3064379,
+    "if": 2.777,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 138,
+    "title": "INTEGRATION-THE VLSI JOURNAL",
+    "sjr-title": "Integration, the VLSI Journal",
+    "issn": "",
+    "if": 1,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 139,
+    "title": "INTELLIGENT DATA ANALYSIS",
+    "sjr-title": "Intelligent Data Analysis",
+    "issn": "1088467X",
+    "if": 0.772,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 140,
+    "title": "INTERNATIONAL JOURNAL OF ADAPTIVE CONTROL AND SIGNAL PROCESSING",
+    "sjr-title": "International Journal of Adaptive Control and Signal Processing",
+    "issn": "08906327, 10991115",
+    "if": 1.708,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 141,
+    "title": "International journal of advanced science and technology - IJAST",
+    "sjr-title": "International Journal on Advanced Science, Engineering and Information Technology",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 142,
+    "title": "INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS",
+    "sjr-title": "International Journal of Communication Systems",
+    "issn": "10991131, 10745351",
+    "if": 1.066,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 143,
+    "title": "International Journal of Computational Intelligence (IJCI)",
+    "sjr-title": "International Journal of Computational Intelligence Systems",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 144,
+    "title": "International Journal of Computational Intelligence and Applications -IJCIA",
+    "sjr-title": "International Journal of Computational Intelligence and Applications",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 2.5
+  },
+  {
+    "id": 145,
+    "title": "International Journal of Computer and Electrical Engineering (IJCEE)",
+    "sjr-title": "International Journal of Electrical and Computer Engineering",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 4
+  },
+  {
+    "id": 146,
+    "title": "International Journal of Computer Applications",
+    "sjr-title": "International Journal of Computers and Applications",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 1.5
+  },
+  {
+    "id": 147,
+    "title": "INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS",
+    "sjr-title": "International Journal of Computer Mathematics",
+    "issn": 207160,
+    "if": 0.971,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 148,
+    "title": "International journal of computer science & information Technology - IJCSIT",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 149,
+    "title": "International Journal of Computers and Their Applications",
+    "sjr-title": "International Journal of Computers and their Applications",
+    "issn": 10765204,
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 1
+  },
+  {
+    "id": 150,
+    "title": "International Journal of Electronic Security and Digital Forensics (IJESDF)",
+    "sjr-title": "International Journal of Electronic Security and Digital Forensics",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 3
+  },
+  {
+    "id": 151,
+    "title": "INTERNATIONAL JOURNAL OF ELECTRONICS",
+    "sjr-title": "International Journal of Electronics",
+    "issn": "00207217, 13623060",
+    "if": 0.729,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 152,
+    "title": "International Journal of Electronics and Communications, AEUE",
+    "sjr-title": "AEU - International Journal of Electronics and Communications",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 6
+  },
+  {
+    "id": 153,
+    "title": "International Journal of Electronics, Circuits and Systems",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 154,
+    "title": "International Journal of Engineering",
+    "sjr-title": "International Journal of Engineering, Transactions A: Basics",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 4
+  },
+  {
+    "id": 155,
+    "title": "International Journal of Foundations of Computer Science (IJFCS)",
+    "sjr-title": "International Journal of Foundations of Computer Science",
+    "issn": "",
+    "if": 0.39,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 156,
+    "title": "International Journal of Hybrid Intelligent Systems (IJHIS)",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  },
+  {
+    "id": 157,
+    "title": "International Journal of Image, Graphics and Signal Processing(IJIGSP)",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  },
+  {
+    "id": 158,
+    "title": "INTERNATIONAL JOURNAL OF IMAGING SYSTEMS AND TECHNOLOGY",
+    "sjr-title": "International Journal of Imaging Systems and Technology",
+    "issn": "10981098, 08999457",
+    "if": 1.139,
+    "sjr-q": "Q3",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 159,
+    "title": "International Journal of Information and Communication Technology (IJICT)",
+    "sjr-title": "International Journal of Information and Communication Technology",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 2
+  },
+  {
+    "id": 160,
+    "title": "INTERNATIONAL JOURNAL OF INFORMATION SECURITY",
+    "sjr-title": "International Journal of Information Security",
+    "issn": "16155262, 16155270",
+    "if": 1.915,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 161,
+    "title": "INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING INFORMATION AND CONTROL",
+    "sjr-title": "International Journal of Innovative Computing, Information and Control",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q1",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 162,
+    "title": "International Journal of Machine Learning and Computing (IJMLC)",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 163,
+    "title": "INTERNATIONAL JOURNAL OF MODERN PHYSICS C",
+    "sjr-title": "International Journal of Modern Physics C",
+    "issn": 1291831,
+    "if": 1.171,
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 164,
+    "title": "International Journal of Network Security",
+    "sjr-title": "International Journal of Network Security",
+    "issn": "18163548, 1816353X",
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 4
+  },
+  {
+    "id": 165,
+    "title": "International Journal of Nonlinear Sciences and Numerical Simulation",
+    "sjr-title": "International Journal of Nonlinear Sciences and Numerical Simulation",
+    "issn": "15651339, 21910294",
+    "if": 0.89,
+    "sjr-q": "Q2",
+    "sharif-score": 4
+  },
+  {
+    "id": 166,
+    "title": "International Journal of Security and Its Applications",
+    "sjr-title": "International Journal of Security and its Applications",
+    "issn": 17389976,
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 3
+  },
+  {
+    "id": 167,
+    "title": "International Journal of Security and Networks (IJSN)",
+    "sjr-title": "International Journal of Security and Networks",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 2.5
+  },
+  {
+    "id": 168,
+    "title": "INTERNATIONAL JOURNAL OF SIGNAL PROCESSING",
+    "sjr-title": "International Journal of Signal Processing, Image Processing and Pattern Recognition",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 1
+  },
+  {
+    "id": 169,
+    "title": "International Journal of Simulation, Systems, Science and Technology",
+    "sjr-title": "International Journal of Simulation: Systems, Science and Technology",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 1
+  },
+  {
+    "id": 170,
+    "title": "INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING",
+    "sjr-title": "International Journal of Software Engineering and Knowledge Engineering",
+    "issn": 2181940,
+    "if": 0.299,
+    "sjr-q": "Q3",
+    "sharif-score": 3.5
+  },
+  {
+    "id": 171,
+    "title": "INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE",
+    "sjr-title": "International Journal of Systems Science",
+    "issn": "14645319, 00207721",
+    "if": 2.285,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 172,
+    "title": "INTERNATIONAL JOURNAL OF UNCERTAINTY FUZZINESS AND KNOWLEDGE-BASED SYSTEMS",
+    "sjr-title": "International Journal of Uncertainty, Fuzziness and Knowlege-Based Systems",
+    "issn": "",
+    "if": 1.214,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 173,
+    "title": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems (IJUFKS)",
+    "sjr-title": "International Journal of Uncertainty, Fuzziness and Knowlege-Based Systems",
+    "issn": "",
+    "if": 1.214,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 174,
+    "title": "International Review on Computers and Software",
+    "sjr-title": "International Review on Computers and Software",
+    "issn": 18286003,
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 175,
+    "title": "Iranian Journal of Electrical and Electronic Engineering - IJEEE",
+    "sjr-title": "Iranian Journal of Electrical and Electronic Engineering",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 2.5
+  },
+  {
+    "id": 176,
+    "title": "Iranian Journal of Information Science and Technology",
+    "sjr-title": "Iranian Journal of Science and Technology - Transactions of Electrical Engineering",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 4
+  },
+  {
+    "id": 177,
+    "title": "IRANIAN JOURNAL OF SCIENCE AND TECHNOLOGY",
+    "sjr-title": "Iranian Journal of Science and Technology, Transaction A: Science",
+    "issn": "",
+    "if": 0.595,
+    "sjr-q": "Q3",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 178,
+    "title": "ISeCure",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 4
+  },
+  {
+    "id": 179,
+    "title": "Journal for Geometry and Graphics",
+    "sjr-title": "Journal for Geometry and Graphics",
+    "issn": 14338157,
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 1.5
+  },
+  {
+    "id": 180,
+    "title": "Journal of Advanced Computational Intelligence and Intelligent Informatics (JACIII)",
+    "sjr-title": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 3
+  },
+  {
+    "id": 181,
+    "title": "JOURNAL OF ALGORITHMS",
+    "sjr-title": "Journal of Algorithms",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3.5
+  },
+  {
+    "id": 182,
+    "title": "JOURNAL OF APPLIED REMOTE SENSING - SPIE",
+    "sjr-title": "Journal of Applied Remote Sensing",
+    "issn": "",
+    "if": 1.107,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 183,
+    "title": "JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH",
+    "sjr-title": "Journal of Artificial Intelligence Research",
+    "issn": 10769757,
+    "if": 2.284,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 184,
+    "title": "Journal of Basic and Applied Scientific Research (JBASR)",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 185,
+    "title": "JOURNAL OF CIRCUITS SYSTEMS AND COMPUTERS",
+    "sjr-title": "Journal of Circuits, Systems and Computers",
+    "issn": "",
+    "if": 0.481,
+    "sjr-q": "Q3",
+    "sharif-score": 3.5
+  },
+  {
+    "id": 186,
+    "title": "JOURNAL OF COMBINATORIAL OPTIMIZATION",
+    "sjr-title": "Journal of Combinatorial Optimization",
+    "issn": "15732886, 13826905",
+    "if": 1.235,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 187,
+    "title": "JOURNAL OF COMPUTATIONAL AND APPLIED MATHEMATICS",
+    "sjr-title": "Journal of Computational and Applied Mathematics",
+    "issn": 3770427,
+    "if": 1.357,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 188,
+    "title": "JOURNAL OF COMPUTATIONAL SCIENCE",
+    "sjr-title": "Journal of Computational Science",
+    "issn": 18777503,
+    "if": 1.748,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 189,
+    "title": "JOURNAL OF COMPUTER AND SYSTEM SCIENCES",
+    "sjr-title": "Journal of Computer and System Sciences",
+    "issn": "00220000, 10902724",
+    "if": 1.678,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 190,
+    "title": "JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY",
+    "sjr-title": "Journal of Computer Science and Technology",
+    "issn": "10009000, 18604749",
+    "if": 0.956,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 191,
+    "title": "Journal of Computing and Security",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  },
+  {
+    "id": 192,
+    "title": "Journal of Discrete Algorithms",
+    "sjr-title": "Journal of Discrete Algorithms",
+    "issn": 15708667,
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 193,
+    "title": "JOURNAL OF ELECTRONIC TESTING-THEORY AND APPLICATIONS",
+    "sjr-title": "Journal of Electronic Testing: Theory and Applications (JETTA)",
+    "issn": "",
+    "if": 0.647,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 194,
+    "title": "JOURNAL OF GRID COMPUTING",
+    "sjr-title": "Journal of Grid Computing",
+    "issn": 15707873,
+    "if": 2.766,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 195,
+    "title": "JOURNAL OF HIGH SPEED NETWORKS",
+    "sjr-title": "Journal of High Speed Networks",
+    "issn": 9266801,
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 2.5
+  },
+  {
+    "id": 196,
+    "title": "Journal of Industrial and Systems Engineering (JISE)-Iranian Institute of Industrial Engineering",
+    "sjr-title": "International Journal of Industrial and Systems Engineering",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 197,
+    "title": "Journal of Information Processing Systems",
+    "sjr-title": "Journal of Information Processing Systems",
+    "issn": "1976913X",
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 198,
+    "title": "JOURNAL OF INFORMATION SCIENCE AND ENGINEERING",
+    "sjr-title": "Journal of Information Science and Engineering",
+    "issn": 10162364,
+    "if": 0.468,
+    "sjr-q": "Q3",
+    "sharif-score": 3.5
+  },
+  {
+    "id": 199,
+    "title": "Journal of Informetrics",
+    "sjr-title": "Journal of Informetrics",
+    "issn": 17511577,
+    "if": 2.92,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 200,
+    "title": "Journal of Integrative Neuroscience",
+    "sjr-title": "Journal of Integrative Neuroscience",
+    "issn": 2196352,
+    "if": 0.647,
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 201,
+    "title": "JOURNAL OF INTELLIGENT & FUZZY SYSTEMS",
+    "sjr-title": "Journal of Intelligent and Fuzzy Systems",
+    "issn": "",
+    "if": 1.261,
+    "sjr-q": "Q1",
+    "sharif-score": 5
+  },
+  {
+    "id": 202,
+    "title": "JOURNAL OF INTELLIGENT INFORMATION SYSTEMS",
+    "sjr-title": "Journal of Intelligent Information Systems",
+    "issn": "15737675, 09259902",
+    "if": 1.294,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 203,
+    "title": "Journal of Iranian Association of Electrical and Electronics Engineers (IAEEE)",
+    "sjr-title": "Iranian Journal of Electrical and Electronic Engineering",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2.5
+  },
+  {
+    "id": 204,
+    "title": "JOURNAL OF KNOWLEDGE MANAGEMENT",
+    "sjr-title": "Journal of Knowledge Management",
+    "issn": 13673270,
+    "if": 2.053,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 205,
+    "title": "JOURNAL OF LOGICAL AND ALGEBRAIC METHODS IN PROGRAMMING",
+    "sjr-title": "Journal of Logical and Algebraic Methods in Programming",
+    "issn": "23522208, 23522216",
+    "if": 0.692,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 206,
+    "title": "JOURNAL OF MACROMOLECULAR SCIENCE Part B-PHYSICS",
+    "sjr-title": "Journal of Macromolecular Science - Physics",
+    "issn": "",
+    "if": 0.828,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 207,
+    "title": "Journal of Medical Imaging",
+    "sjr-title": "Journal of Medical Imaging",
+    "issn": "23294302, 09205497",
+    "if": "",
+    "sjr-q": "Q4",
+    "sharif-score": 1.5
+  },
+  {
+    "id": 208,
+    "title": "JOURNAL OF NETWORK AND COMPUTER APPLICATIONS",
+    "sjr-title": "Journal of Network and Computer Applications",
+    "issn": "10958592, 10848045",
+    "if": 3.5,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 209,
+    "title": "JOURNAL OF NEUROLOGY NEUROSURGERY AND PSYCHIATRY",
+    "sjr-title": "Journal of Neurology, Neurosurgery and Psychiatry",
+    "issn": "",
+    "if": 7.349,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 210,
+    "title": "JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING",
+    "sjr-title": "Journal of Parallel and Distributed Computing",
+    "issn": "10960848, 07437315",
+    "if": 1.93,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 211,
+    "title": "JOURNAL OF SCHEDULING",
+    "sjr-title": "Journal of Scheduling",
+    "issn": 10946136,
+    "if": 1.281,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 212,
+    "title": "JOURNAL OF SCIENTIFIC & INDUSTRIAL RESEARCH",
+    "sjr-title": "Journal of Scientific and Industrial Research",
+    "issn": "",
+    "if": 0.557,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 213,
+    "title": "Journal of Signal Processing Systems",
+    "sjr-title": "Journal of Signal Processing Systems",
+    "issn": 19398018,
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 214,
+    "title": "JOURNAL OF SIMULATION",
+    "sjr-title": "Journal of Simulation",
+    "issn": "17477786, 17477778",
+    "if": 0.772,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 215,
+    "title": "JOURNAL OF SOFTWARE MAINTENANCE AND EVOLUTION-RESEARCH AND PRACTICE",
+    "sjr-title": "Journal of Software Maintenance and Evolution",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": "Discontinued"
+  },
+  {
+    "id": 216,
+    "title": "Journal of Statistical Mechanics: Theory and Experiment",
+    "sjr-title": "Journal of Statistical Mechanics: Theory and Experiment",
+    "issn": 17425468,
+    "if": 2.196,
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 217,
+    "title": "JOURNAL OF SUPERCOMPUTING",
+    "sjr-title": "Journal of Supercomputing",
+    "issn": "09208542, 15730484",
+    "if": 1.326,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 218,
+    "title": "JOURNAL OF SYSTEMS AND SOFTWARE",
+    "sjr-title": "Journal of Systems and Software",
+    "issn": 1641212,
+    "if": 2.444,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 219,
+    "title": "JOURNAL OF SYSTEMS ARCHITECTURE",
+    "sjr-title": "Journal of Systems Architecture",
+    "issn": 13837621,
+    "if": 1.579,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 220,
+    "title": "JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS",
+    "sjr-title": "Journal of the Franklin Institute",
+    "issn": "",
+    "if": 3.139,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 221,
+    "title": "Journal of Universal Computer Science",
+    "sjr-title": "Journal of Universal Computer Science",
+    "issn": "0948695X, 09486968",
+    "if": 0.696,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 222,
+    "title": "JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION",
+    "sjr-title": "Journal of Visual Communication and Image Representation",
+    "issn": 10473203,
+    "if": 2.164,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 223,
+    "title": "Journal of Zhejiang University Science",
+    "sjr-title": "Journal of Zhejiang University: Science B",
+    "issn": "",
+    "if": 1.214,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 224,
+    "title": "KNOWLEDGE AND INFORMATION SYSTEMS",
+    "sjr-title": "Knowledge and Information Systems",
+    "issn": 2191377,
+    "if": 2.004,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 225,
+    "title": "KNOWLEDGE-BASED SYSTEMS",
+    "sjr-title": "Knowledge-Based Systems",
+    "issn": 9507051,
+    "if": 4.529,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 226,
+    "title": "LANGUAGE RESOURCES AND EVALUATION",
+    "sjr-title": "Language Resources and Evaluation",
+    "issn": "1574020X",
+    "if": 0.738,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 227,
+    "title": "LNCS Transactions on Data Hiding and Multimedia Security",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 4
+  },
+  {
+    "id": 228,
+    "title": "Logic Journal of the IGPL",
+    "sjr-title": "Logic Journal of the IGPL",
+    "issn": "13670751, 13689894",
+    "if": 0.575,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 229,
+    "title": "MACHINE VISION AND APPLICATIONS",
+    "sjr-title": "Machine Vision and Applications",
+    "issn": "09328092, 14321769",
+    "if": 2.005,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 230,
+    "title": "MATHEMATICAL AND COMPUTER MODELLING",
+    "sjr-title": "Mathematical and Computer Modelling",
+    "issn": 8957177,
+    "if": "",
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 231,
+    "title": "MATHEMATICS AND COMPUTERS IN SIMULATION",
+    "sjr-title": "Mathematics and Computers in Simulation",
+    "issn": 3784754,
+    "if": 1.218,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 232,
+    "title": "MECHATRONICS",
+    "sjr-title": "Mechatronics",
+    "issn": 9574158,
+    "if": 2.496,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 233,
+    "title": "MICROELECTRONIC ENGINEERING",
+    "sjr-title": "Microelectronic Engineering",
+    "issn": 1679317,
+    "if": 1.806,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 234,
+    "title": "MICROELECTRONICS JOURNAL",
+    "sjr-title": "Microelectronics Journal",
+    "issn": "09598324, 00262692",
+    "if": 1.163,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 235,
+    "title": "MICROELECTRONICS RELIABILITY",
+    "sjr-title": "Microelectronics and Reliability",
+    "issn": "",
+    "if": 1.371,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 236,
+    "title": "MICROPROCESSORS AND MICROSYSTEMS",
+    "sjr-title": "Microprocessors and Microsystems",
+    "issn": 1419331,
+    "if": 1.025,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 237,
+    "title": "MULTIMEDIA SYSTEMS",
+    "sjr-title": "Multimedia Systems",
+    "issn": 9424962,
+    "if": 2.207,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 238,
+    "title": "MULTIMEDIA TOOLS AND APPLICATIONS",
+    "sjr-title": "Multimedia Tools and Applications",
+    "issn": "14321882, 13807501",
+    "if": 1.53,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 239,
+    "title": "NANO",
+    "sjr-title": "Nano",
+    "issn": 17932920,
+    "if": 1.025,
+    "sjr-q": "Q3",
+    "sharif-score": 4
+  },
+  {
+    "id": 240,
+    "title": "NATURAL LANGUAGE ENGINEERING",
+    "sjr-title": "Natural Language Engineering",
+    "issn": "13513249, 14698110",
+    "if": 1.065,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 241,
+    "title": "NETWORKS AND HETEROGENEOUS MEDIA",
+    "sjr-title": "Networks and Heterogeneous Media",
+    "issn": "15561801, 1556181X",
+    "if": 1.2,
+    "sjr-q": "Q1",
+    "sharif-score": 5
+  },
+  {
+    "id": 242,
+    "title": "NEURAL COMPUTING & APPLICATIONS",
+    "sjr-title": "Neural Computing and Applications",
+    "issn": "",
+    "if": 2.505,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 243,
+    "title": "NEURAL NETWORK WORLD",
+    "sjr-title": "Neural Network World",
+    "issn": 12100552,
+    "if": 0.394,
+    "sjr-q": "Q4",
+    "sharif-score": 3
+  },
+  {
+    "id": 244,
+    "title": "NEUROBIOLOGY OF AGING",
+    "sjr-title": "Neurobiology of Aging",
+    "issn": 1974580,
+    "if": 5.117,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 245,
+    "title": "NEUROCOMPUTING",
+    "sjr-title": "Neurocomputing",
+    "issn": 9252312,
+    "if": 3.317,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 246,
+    "title": "NEUROREPORT",
+    "sjr-title": "NeuroReport",
+    "issn": 9594965,
+    "if": 1.395,
+    "sjr-q": "Q3",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 247,
+    "title": "NEW GENERATION COMPUTING",
+    "sjr-title": "New Generation Computing",
+    "issn": 2883635,
+    "if": 0.657,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 248,
+    "title": "OPERATIONS RESEARCH LETTERS",
+    "sjr-title": "Operations Research Letters",
+    "issn": 1676377,
+    "if": 0.657,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 249,
+    "title": "OPTICAL ENGINEERING",
+    "sjr-title": "Optical Engineering",
+    "issn": 913286,
+    "if": 1.082,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 250,
+    "title": "OPTIK",
+    "sjr-title": "Optik",
+    "issn": 304026,
+    "if": 0.835,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 251,
+    "title": "PARALLEL COMPUTING",
+    "sjr-title": "Parallel Computing",
+    "issn": 1678191,
+    "if": 1.362,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 252,
+    "title": "PATTERN ANALYSIS AND APPLICATIONS",
+    "sjr-title": "Pattern Analysis and Applications",
+    "issn": "1433755X, 14337541",
+    "if": 1.352,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 253,
+    "title": "PATTERN RECOGNITION",
+    "sjr-title": "Pattern Recognition",
+    "issn": 313203,
+    "if": 4.582,
+    "sjr-q": "Q1",
+    "sharif-score": 7
+  },
+  {
+    "id": 254,
+    "title": "PATTERN RECOGNITION LETTERS",
+    "sjr-title": "Pattern Recognition Letters",
+    "issn": 1678655,
+    "if": 1.995,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 255,
+    "title": "PEER-TO-PEER NETWORKING AND APPLICATIONS",
+    "sjr-title": "Peer-to-Peer Networking and Applications",
+    "issn": "19366450, 19366442",
+    "if": 1.262,
+    "sjr-q": "Q3",
+    "sharif-score": 5
+  },
+  {
+    "id": 256,
+    "title": "PERFORMANCE EVALUATION",
+    "sjr-title": "Performance Evaluation",
+    "issn": 1665316,
+    "if": 1.613,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 257,
+    "title": "PHYSICA A",
+    "sjr-title": "Physica A: Statistical Mechanics and its Applications",
+    "issn": "",
+    "if": 2.243,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 258,
+    "title": "PHYSICAL REVIEW E",
+    "sjr-title": "Physical Review E - Statistical, Nonlinear, and Soft Matter Physics",
+    "issn": "",
+    "if": 2.366,
+    "sjr-q": "Q1",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 259,
+    "title": "PHYSICS LETTERS A",
+    "sjr-title": "Physics Letters, Section A: General, Atomic and Solid State Physics",
+    "issn": "",
+    "if": 1.772,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 260,
+    "title": "PLOS ONE",
+    "sjr-title": "PLoS ONE",
+    "issn": 19326203,
+    "if": 2.806,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 261,
+    "title": "POLYMER JOURNAL",
+    "sjr-title": "Polymer Journal",
+    "issn": 323896,
+    "if": 2.145,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 262,
+    "title": "PRAMANA-JOURNAL OF PHYSICS",
+    "sjr-title": "Pramana - Journal of Physics",
+    "issn": "",
+    "if": 0.52,
+    "sjr-q": "Q3",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 263,
+    "title": "Procedia Engineering",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": "غ?رمرتبط"
+  },
+  {
+    "id": 264,
+    "title": "PSYCHOPHYSIOLOGY",
+    "sjr-title": "Psychophysiology",
+    "issn": "14698986, 00485772",
+    "if": 2.668,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 265,
+    "title": "QUEUEING SYSTEMS",
+    "sjr-title": "Queueing Systems",
+    "issn": "15729443, 02570130",
+    "if": 1.06,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 266,
+    "title": "Research in Computing Science",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 267,
+    "title": "ROBOTICS AND AUTONOMOUS SYSTEMS",
+    "sjr-title": "Robotics and Autonomous Systems",
+    "issn": 9218890,
+    "if": 1.95,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 268,
+    "title": "Scientia Iranica",
+    "sjr-title": "Scientia Iranica",
+    "issn": 10263098,
+    "if": 0.405,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 269,
+    "title": "Scientific Research and Essays",
+    "sjr-title": "Scientific Research and Essays",
+    "issn": "",
+    "if": "",
+    "sjr-q": "Q3",
+    "sharif-score": "Discontinued"
+  },
+  {
+    "id": 270,
+    "title": "SCIENTIFIC WORLD JOURNAL",
+    "sjr-title": "The Scientific World Journal",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 4
+  },
+  {
+    "id": 271,
+    "title": "SECURITY AND COMMUNICATION NETWORKS",
+    "sjr-title": "Security and Communication Networks",
+    "issn": "19390114, 19390122",
+    "if": 1.067,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 272,
+    "title": "Signal Image and Video Processing - Open Access",
+    "sjr-title": "Signal, Image and Video Processing",
+    "issn": "",
+    "if": 1.102,
+    "sjr-q": "",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 273,
+    "title": "SIGNAL PROCESSING-IMAGE COMMUNICATION",
+    "sjr-title": "Signal Processing: Image Communication",
+    "issn": "",
+    "if": 2.244,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 274,
+    "title": "SIMULATION",
+    "sjr-title": "Simulation",
+    "issn": 375497,
+    "if": 0.713,
+    "sjr-q": "Q2",
+    "sharif-score": 4.5
+  },
+  {
+    "id": 275,
+    "title": "Simulation Modelling Practice and Theory",
+    "sjr-title": "Simulation Modelling Practice and Theory",
+    "issn": "1569190X",
+    "if": 1.954,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 276,
+    "title": "Social Network Analysis and Mining",
+    "sjr-title": "Social Network Analysis and Mining",
+    "issn": "18695450, 18695469",
+    "if": "",
+    "sjr-q": "Q1",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 277,
+    "title": "SPEECH COMMUNICATION",
+    "sjr-title": "Speech Communication",
+    "issn": 1676393,
+    "if": 1.768,
+    "sjr-q": "Q1",
+    "sharif-score": 6.5
+  },
+  {
+    "id": 278,
+    "title": "Springer book",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 279,
+    "title": "TELECOMMUNICATION SYSTEMS",
+    "sjr-title": "Telecommunication Systems",
+    "issn": "15729451, 10184864",
+    "if": 1.542,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 280,
+    "title": "The CSI Journal on Computer Science and Engineering (JCSE)",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3.5
+  },
+  {
+    "id": 281,
+    "title": "The ISC International Journal of Information Security",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 4
+  },
+  {
+    "id": 282,
+    "title": "THEORETICAL COMPUTER SCIENCE",
+    "sjr-title": "Theoretical Computer Science",
+    "issn": 3043975,
+    "if": 0.698,
+    "sjr-q": "Q1",
+    "sharif-score": 6
+  },
+  {
+    "id": 283,
+    "title": "TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES",
+    "sjr-title": "Turkish Journal of Electrical Engineering and Computer Sciences",
+    "issn": "13036203, 13000632",
+    "if": 0.578,
+    "sjr-q": "Q2",
+    "sharif-score": 5
+  },
+  {
+    "id": 284,
+    "title": "UbiCC Journal",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  },
+  {
+    "id": 285,
+    "title": "Wireless Personal Communications",
+    "sjr-title": "Wireless Personal Communications",
+    "issn": "1572834X, 09296212",
+    "if": 0.951,
+    "sjr-q": "Q2",
+    "sharif-score": 5.5
+  },
+  {
+    "id": 286,
+    "title": "Wireless Sensor Network",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 0
+  },
+  {
+    "id": 287,
+    "title": "WORLD WIDE WEB",
+    "sjr-title": "World Wide Web",
+    "issn": "15731413, 1386145X",
+    "if": 1.405,
+    "sjr-q": "Q2",
+    "sharif-score": 6
+  },
+  {
+    "id": 288,
+    "title": "اخلاق در علوم و فناوري-انجمن ايراني اخلاق در علوم و فناوري",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 1
+  },
+  {
+    "id": 289,
+    "title": "استقلال- دانشگاه صنعتي اصفهان - پ",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 5
+  },
+  {
+    "id": 290,
+    "title": "آموزش عالي ايران- انجمن آموزش عالي ايران - پ",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 291,
+    "title": "پژوهش هاي زبان شناسي تطبيقي",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 1
+  },
+  {
+    "id": 292,
+    "title": "دانشكده فني- دانشگاه تهران - پ",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  },
+  {
+    "id": 293,
+    "title": "علوم- دانشگاه تهران - پ",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 294,
+    "title": "علوم و مهندسي كامپيوتر- انجمن كامپيوتر ايران - پ",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  },
+  {
+    "id": 295,
+    "title": "فصل نامه شريف - پ",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 296,
+    "title": "فصلنامه آموزش مهندسي ايران",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 297,
+    "title": "فصلنامه نوآوري و ارزش آفريني",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 1
+  },
+  {
+    "id": 298,
+    "title": "گزارش كامپيوتر نشريه انجمن انفورماتيك ايران",
+    "sjr-title": "",
+    "issn": "",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 299,
+    "title": "مجله رايانش نرم و فناوري اطلاعات - Journal of Soft Computing and Information Technology",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 300,
+    "title": "مجله علوم دانشگاه تهران",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 301,
+    "title": "نشريه صوت و ارتعاش",
+    "sjr-title": "",
+    "issn": "علم? ترو?ج?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 1
+  },
+  {
+    "id": 302,
+    "title": "نشريه محاسبات نرم - Soft Computing Journal",
+    "sjr-title": "",
+    "issn": "علم? ترو?ج?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 1
+  },
+  {
+    "id": 303,
+    "title": "نشريه مديريت فناوري اطلاعات",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 2
+  },
+  {
+    "id": 304,
+    "title": "نشريه مهندسي برق و مهندسي كامپيوتر ايران",
+    "sjr-title": "",
+    "issn": "علم? پژوهش?",
+    "if": "",
+    "sjr-q": "",
+    "sharif-score": 3
+  }
+]

@@ -1,0 +1,18 @@
+<div>
+    <!-- Callout -->
+    <div class="bs-callout bs-callout-info">
+        <h4>{{vm.title}} Journals</h4>
+        <p>{{vm.description}}</p>
+    </div>
+    <!-- Table -->
+    <table ng-table-dynamic="vm.tableParams with vm.cols" class="table table-condensed table-striped" show-filter="true">
+        <tr ng-repeat="row in $data">
+            <td ng-repeat="col in $columns" ng-class="{'text-danger': col.field === 'sjr-q'}">
+                <a ng-href="https://www.scimagojr.com/journalsearch.php?q={{row[col.field]}}" target="_blank" ng-if="col.field === 'sjr-title'">{{row[col.field]}}</a>
+                <span ng-if="col.field !== 'sjr-title'">
+                    {{row[col.field]}}
+                </span>
+            </td>
+        </tr>
+    </table>
+</div>
