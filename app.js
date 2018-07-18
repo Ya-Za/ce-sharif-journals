@@ -62,7 +62,8 @@ angular
     .module('app')
     .controller('ceSharifJournalsMainCtrl', function($http, NgTableParams) {
         this.title = 'Main';
-        this.description = 'List of journals used by the Department of Computer Engineering, Sharif University of Technology, in the last 10 years';
+        this.description =
+            'List of journals used by the Department of Computer Engineering, Sharif University of Technology, in the last 10 years';
         this.cols = [
             {
                 field: 'id',
@@ -79,10 +80,10 @@ angular
                 show: true
             },
             {
-                field: 'sjr-title',
+                field: 'sjrTitle',
                 title: 'SJR Title',
-                filter: { 'sjr-title': 'text' },
-                sortable: 'sjr-title',
+                filter: { sjrTitle: 'text' },
+                sortable: 'sjrTitle',
                 show: true
             },
             {
@@ -100,17 +101,17 @@ angular
                 show: true
             },
             {
-                field: 'sjr-q',
+                field: 'sjrQ',
                 title: 'SJR Q',
-                filter: { 'sjr-q': 'text' },
-                sortable: 'sjr-q',
+                filter: { sjrQ: 'text' },
+                sortable: 'sjrQ',
                 show: true
             },
             {
-                field: 'sharif-score',
+                field: 'sharifScore',
                 title: 'Sharif Score',
-                filter: { 'sharif-score': 'text' },
-                sortable: 'sharif-score',
+                filter: { sharifScore: 'text' },
+                sortable: 'sharifScore',
                 show: true
             }
         ];
@@ -126,7 +127,8 @@ angular
     .module('app')
     .controller('ceSharifJournalsAStarCtrl', function($http, NgTableParams) {
         this.title = 'A*';
-        this.description = 'Joint conferences in all three lists (SJR-Q: Q1, Sharif Score: 7).';
+        this.description =
+            'Joint conferences in all three lists (SJR-Q: Q1, Sharif Score: 7).';
         this.cols = [
             {
                 field: 'id',
@@ -157,10 +159,10 @@ angular
                 show: true
             },
             {
-                field: 'sharif-score',
+                field: 'sharifScore',
                 title: 'Sharif Score',
-                filter: { 'sharif-score': 'text' },
-                sortable: 'sharif-score',
+                filter: { sharifScore: 'text' },
+                sortable: 'sharifScore',
                 show: true
             }
         ];
@@ -176,7 +178,8 @@ angular
     .module('app')
     .controller('ceSharifJournalsACtrl', function($http, NgTableParams) {
         this.title = 'A';
-        this.description = 'Joint conferences in two lists of three lists (SJR-Q: Q2, Sharif Score: 5).';
+        this.description =
+            'Joint conferences in two lists of three lists (SJR-Q: Q2, Sharif Score: 5).';
         this.cols = [
             {
                 field: 'id',
@@ -207,10 +210,10 @@ angular
                 show: true
             },
             {
-                field: 'sharif-score',
+                field: 'sharifScore',
                 title: 'Sharif Score',
-                filter: { 'sharif-score': 'text' },
-                sortable: 'sharif-score',
+                filter: { sharifScore: 'text' },
+                sortable: 'sharifScore',
                 show: true
             }
         ];
@@ -236,10 +239,10 @@ angular
                 show: true
             },
             {
-                field: 'sjr-title',
+                field: 'sjrTitle',
                 title: 'SJR Title',
-                filter: { 'sjr-title': 'text' },
-                sortable: 'sjr-title',
+                filter: { sjrTitle: 'text' },
+                sortable: 'sjrTitle',
                 show: true
             },
             {
@@ -264,17 +267,17 @@ angular
                 show: true
             },
             {
-                field: 'sjr-q',
+                field: 'sjrQ',
                 title: 'SJR Q',
-                filter: { 'sjr-q': 'text' },
-                sortable: 'sjr-q',
+                filter: { sjrQ: 'text' },
+                sortable: 'sjrQ',
                 show: true
             },
             {
-                field: 'sharif-score',
+                field: 'sharifScore',
                 title: 'Sharif Score',
-                filter: { 'sharif-score': 'text' },
-                sortable: 'sharif-score',
+                filter: { sharifScore: 'text' },
+                sortable: 'sharifScore',
                 show: true
             }
         ];

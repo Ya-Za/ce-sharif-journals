@@ -4,230 +4,230 @@
       "code": "AAAI",
       "title": "AAAI Conference on Artificial Intelligence",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 2,
       "code": "ACL",
       "title": "Meeting of the Association for Computational Linguistics",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 3,
       "code": "ASPLOS",
       "title": "International Conference on Architectural Support for Programming Languages and Operating Systems",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 4,
       "code": "CAV",
       "title": "Computer Aided Verification",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 5,
       "code": "CCS",
       "title": "Conference on Computer and Communications Security",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 6,
       "code": "CRYPTO",
       "title": "International Cryptology Conference",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 7,
       "code": "Euro Crypt",
       "title": "EUROCRYPT",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 8,
       "code": "FOCS",
       "title": "IEEE Symposium on Foundations of Computer Science",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 9,
       "code": "ICCV",
       "title": "IEEE International Conference on Computer Vision",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 10,
       "code": "ICML",
       "title": "International Conference on Machine Learning",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 11,
       "code": "ICSE",
       "title": "International Conference on Software Engineering",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 12,
       "code": "IEEE S&P (\"Oakland\")",
       "title": "IEEE Symposium on Security and Privacy",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 13,
       "code": "IJCAI",
       "title": "International Joint Conference on Artificial Intelligence",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 14,
       "code": "INFOCOM",
       "title": "IEEE INFOCOM",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 15,
       "code": "ISCA",
       "title": "International Symposium on Computer Architecture",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 16,
       "code": "LICS",
       "title": "Logic in Computer Science",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 17,
       "code": "Mobi Com",
       "title": "ACM/IEEE International Conference on Mobile Computing and Networking",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 18,
       "code": "NIPS",
       "title": "Advances in Neural Information Processing Systems",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 19,
       "code": "PLDI",
       "title": "ACM-SIGPLAN Conference on Programming Language Design and Implementation",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 20,
       "code": "PODS",
       "title": "ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 21,
       "code": "POPL",
       "title": "ACM-SIGACT Symposium on Principles of Programming Languages",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 22,
       "code": "RSS",
       "title": "Robotics: Science and Systems",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 23,
       "code": "RTSS",
       "title": "IEEE Real-Time Systems Symposium",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 24,
       "code": "SIGCOMM",
       "title": "ACM SIGCOMM Conference",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 25,
       "code": "SIGGRAPH",
       "title": "SIGGRAPH Conference on Computer Graphics and Interactive Techniques",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 26,
       "code": "SIGIR",
       "title": "International Conference on Research and Development in Information Retrieval",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 27,
       "code": "SIGMETRICS",
       "title": "ACM SIG on Computer and Communications Metrics and Performance",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 28,
       "code": "SIGMOD",
       "title": "ACM Special Interest Group on Management of Data Conference",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 29,
       "code": "SODA",
       "title": "ACM/SIAM Symposium on Discrete Algorithms",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 30,
       "code": "SOSP",
       "title": "ACM SIGOPS Symposium on Operating Systems Principles",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 31,
       "code": "STOC",
       "title": "ACM Symposium on Theory of Computing",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 32,
       "code": "VLDB",
       "title": "International Conference on Very Large Databases",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     },
     {
       "id": 33,
       "code": "WWW",
       "title": "International World Wide Web Conference",
       "rank": "A* Conference",
-      "sharif-score": 7
+      "sharifScore": 7
     }
   ]
